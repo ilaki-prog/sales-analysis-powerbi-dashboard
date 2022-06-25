@@ -25,4 +25,6 @@ REASON- MackBooks are Apple ultrabooks that Both professionals and students can 
 
 4- what product most often sold together?
 
-for this question we used python to find pairs sold together 
+![top 10 combo](https://user-images.githubusercontent.com/100082194/175786945-1f161f8b-9bfc-4a51-ac8e-4858abea5c68.png)
+
+for this question we used python to find pairs of the sold together products
