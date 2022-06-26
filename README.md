@@ -1,6 +1,8 @@
 # sales-analysis-powerbi-dashboard
 
-Data Questions Answered from this dashboards
+ Data Task Answered in the form of Data visualization dashboards using power bi.
+ 
+ Data driven questions
 
 1- what was the best month for sales? How much was earned that month ?
 
