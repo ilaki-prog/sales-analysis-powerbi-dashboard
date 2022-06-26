@@ -21,9 +21,9 @@ San Fransico Had the highest number of sales compared to all other cities
 
 ![Total sales by product](https://user-images.githubusercontent.com/100082194/175786063-4b6371bd-f2b0-49ce-ae9f-9674912676f2.png)
 
-MckBook Pro Laptops are sold most. 
+MackBook Pro Laptops are sold most. 
 
-REASON- MackBooks are Apple ultrabooks that Both professionals and students can use. Mckbooks popularity stems from its elegant and recognizable sleek design, technology, and dependable software and hardware. That is the reason why Apples Mackbook is the most popular and extensively sold ultra-portable computer.
+REASON- MackBooks are Apple ultrabooks that Both professionals and students can use. Mackbooks popularity stems from its elegant and recognizable sleek design, technology, and dependable software and hardware. That is the reason why Apples Mackbook is the most popular and extensively sold ultra-portable computer.
 
 4- what product most often sold together?
 
