@@ -24,8 +24,15 @@ MckBook Pro Laptops are sold most.
 REASON- MackBooks are Apple ultrabooks that Both professionals and students can use. Mckbooks popularity stems from its elegant and recognizable sleek design, technology, and dependable software and hardware. That is the reason why Apples Mackbook is the most popular and extensively sold ultra-portable computer.
 
 4- what product most often sold together?
-  For this  question we used python to find pairs of the sold together products -  for reference chick this notebook 
- there are more product combinations which had been sold together but i short listed it to TOP 10
+
+  For this  question we used python to find pairs of the sold together products -  for reference chick this notebook https://github.com/ilaki-prog/sales-analysis-powerbi-dashboard/blob/main/Frequently%20Bought%20Together%20Items%20Combination.ipynb
+  
+  
+  
+ there are more product combinations which had been sold together but i shortlisted it to TOP 10
 ![top 10 combo](https://user-images.githubusercontent.com/100082194/175786945-1f161f8b-9bfc-4a51-ac8e-4858abea5c68.png)
 
-for this question we used python to find pairs of the sold together products
+
+IN this dasboard i displayed to TOP 3 product bought no of times
+
+![product combo](https://user-images.githubusercontent.com/100082194/175800344-fa977cd2-d31c-4789-bc8e-1f9e481d6e9e.png)
